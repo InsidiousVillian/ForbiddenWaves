@@ -1,0 +1,362 @@
+[
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWaves.Build.cs",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWaves.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWaves.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWavesCameraManager.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWavesCameraManager.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWavesCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWavesCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWavesGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWavesGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWavesPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\ForbiddenWavesPlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Horror\\HorrorCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Horror\\HorrorCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Horror\\HorrorGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Horror\\HorrorGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Horror\\HorrorPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Horror\\HorrorPlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Horror\\HorrorUI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Horror\\HorrorUI.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\AI\\EnvQueryContext_Target.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\AI\\EnvQueryContext_Target.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\AI\\ShooterAIController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\AI\\ShooterAIController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\AI\\ShooterNPC.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\AI\\ShooterNPC.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\AI\\ShooterStateTreeUtility.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\AI\\ShooterStateTreeUtility.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterBulletCounterUI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterBulletCounterUI.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterCharacter.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterGameMode.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterPickup.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterPickup.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterPlayerController.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterProjectile.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterProjectile.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterUI.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterUI.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterWeapon.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterWeapon.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterWeaponHolder.cpp",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	},
+	{
+		"file": "C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\Source\\ForbiddenWaves\\Variant_Shooter\\ShooterWeaponHolder.h",
+		"arguments": [
+			"C:\\Program Files (x86)\\Microsoft Visual Studio\\2022\\BuildTools\\VC\\Tools\\MSVC\\14.44.35207\\bin\\Hostx64\\x64\\cl.exe",
+			"@C:\\Users\\jetta\\OneDrive\\Documentos\\GitHub\\ForbiddenWaves\\ForbiddenWaves\\.vscode\\compileCommands_Default\\ForbiddenWaves.1.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.6\\Engine\\Source"
+	}
+]
