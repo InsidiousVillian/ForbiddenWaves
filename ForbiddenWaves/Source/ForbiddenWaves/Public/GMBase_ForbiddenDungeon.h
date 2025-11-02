@@ -14,4 +14,22 @@ class FORBIDDENWAVES_API AGMBase_ForbiddenDungeon : public AGameModeBase
 {
 	GENERATED_BODY()
 	
+public:
+	AGMBase_ForbiddenDungeon();
+
+
+protected: 
+	virtual void BeginPlay() override;
+
+	FTimerHandle WaveTimerHandle;
+
+	UPROPERTY(EditDefaultsOnly, Category = "Waves");
+	float TimeBetweenWaves = 5.0f;
+	
+	void StartWave();
+	void EndWave();
+	void SpawnWaveEnemies(int32 WaveNumber);
+
+	void CheckWaveStatus();
+
 };
